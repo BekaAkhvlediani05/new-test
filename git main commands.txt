@@ -1,0 +1,15 @@
+git init
+git add . 
+git commit -m "something"
+git remote add origin "GitHub link"
+git branch -M main
+git push -u origin main
+
+
+
+
+
+
+git remote rm origin - removes origin link from git
+
+
